@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const API_TOKEN = "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";
+const API_TOKEN = "hello";
 
 const ImageGenerationForm = () => {
   const [loading, setLoading] = useState(false);
