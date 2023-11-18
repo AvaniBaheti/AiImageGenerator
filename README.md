@@ -4,4 +4,4 @@
 - Fetch api
 - hugging face api
 
-![alt text](E:\ai.jpg)
+![alt text](./E/ai.jpg)
